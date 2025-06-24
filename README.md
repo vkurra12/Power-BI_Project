@@ -1,6 +1,6 @@
 # E-commerce Sales Dashboard.
 
-![Dashboard](https://github.com/Mahadevkempe/Power-BI_Project/blob/main/E-commerce%20Sales%20Analysis/Dashboard.png)
+![Dashboard](https://github.com/vkurra12/Power-BI_Project/blob/main/E-commerce%20Sales%20Analysis/Dashboard.png)
 
 # Business Problem Statement:
 An E-Commerce company is facing challenges in profitability, sales performance, and customer payment behavior across different states and product categories. The company needs to identify key problem areas, optimize its product sales strategy, and reduce operational inefficiencies to maximize revenue and profitability.
